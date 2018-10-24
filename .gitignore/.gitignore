@@ -1,0 +1,5 @@
+# Object file for calculation average of class score
+*.o
+
+# Elvis Agbontaen Library Information
+*.ali
