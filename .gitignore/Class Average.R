@@ -1,0 +1,7 @@
+Names <- c("Briahmoh","Kelvin","Marian","Goodluck","Justice","Justin","Mary","Helen","Bridget","Ovo","Daniel")
+Ages <- c(14,12,17,16,10,13,12,17,13,15,15)
+Scores <- c(65,45,75,89,34,74,44,67,54,55,70)
+cbind(Names,Ages,Scores)
+average <- sum(Ages) / length(Ages)
+print("the average age of student in JSS 3 class is")
+print(average)
